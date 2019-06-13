@@ -1,1 +1,3 @@
 # freecodecamp
+
+reviewed js syntax
